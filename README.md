@@ -54,10 +54,7 @@
 
 ## 프로젝트 기여자
 
-- 문승연: opm0508@naver.com
-- 이요셉: rheejoseph54@gmail.com
-- 이호준: hojun7889@gmail.com
-- 홍지원: jw1122.h@gmail.com
+- 이요셉: joseph_rhee@naver.com
 
 ## 교육과정 및 참고자료
 
@@ -161,10 +158,7 @@
 
 ## 프로젝트 기여자
 
-- 문승연: opm0508@naver.com
-- 이요셉: rheejoseph54@gmail.com
-- 이호준: hojun7889@gmail.com
-- 홍지원: jw1122.h@gmail.com
+- 이요셉: joseph_rhee@naver.com
 
 ## 교육과정 및 참고자료
 
